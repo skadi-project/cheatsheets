@@ -100,3 +100,6 @@ systemctl list-unit-files 'ssh*'
 - [journalctl](https://www.freedesktop.org/software/systemd/man/latest/journalctl.html)
 - [OpenSSH](https://www.openssh.com/manual.html)
 - [Основные команды Linux](Linux-Commands.md)
+
+- [systemd](Systemd.md)
+- [OpenRC](OpenRC.md)
